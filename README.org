@@ -2,6 +2,8 @@
 
 ** by Joo ChurlSoo
 
+
+
 This repository hosts [[https://srfi.schemers.org/srfi-51/][SRFI 51]]: Handling rest list, a [[https://srfi.schemers.org/][Scheme Request for Implementation]].
 
 This SRFI is in /final/ status.
